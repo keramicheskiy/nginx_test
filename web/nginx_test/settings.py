@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a4gvxa#25_8irsv06y-wf-llx88$m7f*sd=zy0!qi1+65xv6lu
 DEBUG = True
 
 DEBUG = False
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", "77.239.96.125", "77.239.96.124", "keramicheskiy.ru"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "77.239.96.124", "keramicheskiy.ru", "www.keramicheskiy.ru"]
 
 
 # Application definition
